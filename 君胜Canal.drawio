@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2019-10-16T09:26:21.453Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" version="12.1.1" etag="kZo_WMhBokst6gjSv8LN" type="github"><diagram id="1FVQq0Af1aml-lLzA4yS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-16T09:38:17.750Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="oxTD0VV5MgKJfkEHoNwz" version="12.1.1" type="github" pages="1">
+  <diagram id="1FVQq0Af1aml-lLzA4yS" name="第 1 页">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="WTElzL4Cc3IyA09FZ4qH-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTElzL4Cc3IyA09FZ4qH-1" target="WTElzL4Cc3IyA09FZ4qH-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="WTElzL4Cc3IyA09FZ4qH-1" value="客户端1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="WTElzL4Cc3IyA09FZ4qH-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTElzL4Cc3IyA09FZ4qH-3" target="WTElzL4Cc3IyA09FZ4qH-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="WTElzL4Cc3IyA09FZ4qH-3" value="客户端2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="WTElzL4Cc3IyA09FZ4qH-4" value="MQ" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="373" y="120" width="80" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
