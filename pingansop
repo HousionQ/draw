@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T07:05:18.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="rjcXn0J4z5sHn70-D4tG" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-25T07:07:28.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jrCcN-QVhLj8CLAZwWAm" version="13.1.3" type="github">
   <diagram id="WTgPjFzJ4wJ56Y3Pw9OR" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,24 @@
         </mxCell>
         <mxCell id="nnbjhzZvNZCk-S2ED00c-9" value="8.上线评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="205" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-10" value="9.上线资源申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-11" value="10.上线动员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-12" value="11.部署操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-13" value="12.业主方安全扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-14" value="13.专项测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnbjhzZvNZCk-S2ED00c-15" value="15.正式上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
